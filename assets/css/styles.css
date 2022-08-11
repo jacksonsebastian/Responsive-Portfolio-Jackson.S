@@ -348,6 +348,11 @@ img{
     font-size: 1.25rem;
 }
 /*==================== BUTTONS ====================*/
+
+#c-btn{
+    margin-top: 20px;
+    padding: 3px 20px;
+}
 .button {
     display: inline-block;
     background-color: var(--first-color);
@@ -510,8 +515,8 @@ img{
     width:30%;
 }
 
-.skills__php {
-    width:70%;
+.skills__md {
+    width:50%;
 }
 
 .skills__node {
@@ -527,11 +532,11 @@ img{
 }
 
 .skills__ps {
-    width:90%;
+    width:60%;
 }
 
-.skills__figma {
-    width:60%;
+.skills__canva {
+    width:80%;
 }
 
 .skills__close .skills__list {
